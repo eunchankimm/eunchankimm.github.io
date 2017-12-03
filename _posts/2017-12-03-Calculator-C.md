@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Malaysia: Free swimming"
+img: malaysia.jpg # Add image post (optional)
+date: 2017-07-08 12:53:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: [Travel, Malaysia, Blogging]
+---
 ## 공학용 계산기 만들기 (C# 윈도우 폼)
 
 윈도우즈 프로그래밍의 과제로 공학용 계산기를 만드는게 나왔다.
