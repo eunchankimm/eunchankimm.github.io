@@ -271,6 +271,52 @@ do{
 
 <img width="775" alt="2018-01-12 4 05 15" src="https://user-images.githubusercontent.com/19322354/34863382-7a80b0e8-f7b2-11e7-9070-d1fb0e090b3c.png">
 
+---
+
+
+
+### Monitor
+
+<img width="771" alt="2018-01-22 2 46 30" src="https://user-images.githubusercontent.com/19322354/35206900-120130d2-ff83-11e7-98a9-ab7abbc01c19.png">
+
+> Monitor 은 공유 자원에 대한 프로세스의 다중 접근을 막아줌
+
+
+
+<img width="678" alt="2018-01-22 2 08 45" src="https://user-images.githubusercontent.com/19322354/35206150-d6a5b954-ff7d-11e7-9b2f-826ff85ebeae.png">
+
+
+
+
+
+<img width="803" alt="2018-01-22 2 08 54" src="https://user-images.githubusercontent.com/19322354/35206151-d71b3152-ff7d-11e7-86d0-e6f9cb8f5365.png">
+
+> 어떠한 공유 데이터를 접근하기 위해서는 monitor을 통해서만 접근 가능하다
+>
+> procedure를 통해 접근을 할 수 있는지 확인
+
+
+
+<img width="777" alt="2018-01-22 2 09 02" src="https://user-images.githubusercontent.com/19322354/35206154-d7e831a2-ff7d-11e7-96cc-ae0250b199ec.png">
+
+> 공유 데이터를 monitor 내부에 두고, operation을 통해 접근 할 수 있는지에 대한 확인 을 하는데
+>
+> 이는 lock을 걸 필요가 없게 끔 해준다.
+
+
+
+<img width="753" alt="2018-01-22 2 32 24" src="https://user-images.githubusercontent.com/19322354/35206610-23116434-ff81-11e7-8aba-136f0f3ea438.png">
+
+
+
+
+
+<img width="924" alt="2018-01-22 2 32 36" src="https://user-images.githubusercontent.com/19322354/35206612-23ad236a-ff81-11e7-8c55-f86e0dd5c782.png">
+
+
+
+
+
 
 
 
